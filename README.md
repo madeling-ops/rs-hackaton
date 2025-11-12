@@ -2,7 +2,9 @@
 repo för RS Hackaton
 
 Instructor Admin P/W :        ****
+
 Student Admin P/W :           ****
+
 BOTH: Login as “admin"
 
 INSTRUCTOR
