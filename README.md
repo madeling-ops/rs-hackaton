@@ -5,12 +5,16 @@ Instructor Admin P/W :        ****
 
 Student Admin P/W :           ****
 
+
 BOTH: Login as “admin"
 
+
 INSTRUCTOR
+
 https://skanebolaget-oct-3761-instructor-0001.lab.service-now.com/
 
 LAB Instanser
+
 https://skanebolaget-oct-3761-0001.lab.service-now.com/
 
 https://skanebolaget-oct-3761-0002.lab.service-now.com/
