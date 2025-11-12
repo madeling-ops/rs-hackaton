@@ -2,7 +2,7 @@
 repo för RS Hackaton
 
 
-//Username: Admin 
+//Username: admin 
 
 //
 
