@@ -6,7 +6,7 @@ repo för RS Hackaton
 
 //
 
-//PW : 7Nfq2CTNTUMf
+//PW : 
 
 
 LAB Instanser
@@ -40,7 +40,7 @@ Här finns hela Von Trapps önskade sortimentet att hämta​
 
 User name: hack.user
 
-PW: Hack2025!
+PW: 
 
 ***Table API***​
 
