@@ -6,7 +6,7 @@ Student
 //
 //Username: Admin 
 //
-//P/W : 7Nfq2CTNTUMf
+//PW : 7Nfq2CTNTUMf
 
 
 LAB Instanser
