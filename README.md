@@ -1,17 +1,10 @@
 # rs-hackaton
 repo för RS Hackaton
 
-Instructor Admin P/W :        ****
 
 Student Admin P/W :           ****
 
 
-BOTH: Login as “admin"
-
-
-INSTRUCTOR
-
-https://skanebolaget-oct-3761-instructor-0001.lab.service-now.com/
 
 LAB Instanser
 
@@ -34,3 +27,28 @@ https://skanebolaget-oct-3761-0008.lab.service-now.com/
 https://skanebolaget-oct-3761-0009.lab.service-now.com/
 
 https://skanebolaget-oct-3761-0010.lab.service-now.com/
+
+
+SKAPI
+
+Här finns hela Von Trapps önskade sortimentet att hämta​
+
+***Credentials​***
+
+User name: ***
+
+PW: ***
+
+***Table API***​
+
+https://skapi.service-now.com/api/now/table/u_assortment​
+
+****Scripted REST API​***
+
+https://skapi.service-now.com/api/snc/sb_assortment ​
+
+Params:​
+
+productNumber, category1, category2, category3, country​
+
+​
