@@ -2,8 +2,9 @@
 repo för RS Hackaton
 
 
-Student Admin P/W :           ****
-
+Student 
+Username: Admin 
+P/W : 7Nfq2CTNTUMf
 
 
 LAB Instanser
@@ -35,9 +36,9 @@ Här finns hela Von Trapps önskade sortimentet att hämta​
 
 ***Credentials​***
 
-User name: ***
+User name: hack.user
 
-PW: ***
+PW: Hack2025!
 
 ***Table API***​
 
