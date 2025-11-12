@@ -2,10 +2,10 @@
 repo för RS Hackaton
 
 
-Student 
-//
 //Username: Admin 
+
 //
+
 //PW : 7Nfq2CTNTUMf
 
 
