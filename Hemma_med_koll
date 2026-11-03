@@ -1,1 +1,17 @@
+Hemma med koll - Hemmonitorering vid kronisk sjukdom
+
+Instans: xxx
+
+Problemformulering:
+Patienter med hjärtsvikt eller KOL läggs in akut när försämringen upptäcks för sent. Sjuksköterskan hinner inte granska alla hemrapporter.
+
+Uppdrag:
+Patienten rapporterar värden och mående hemifrån, och AI-agenter sorterar fram vilka som behöver kontakt i dag.
+
+Förslag att basera lösning på:
+CSM, HCLS datamodell
+
+Önskade funktioner:
+- Portal/mobil app med Record Producer för patient att anmäla/registrera värden
+- 
 
